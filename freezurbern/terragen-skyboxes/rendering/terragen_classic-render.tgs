@@ -1,0 +1,16 @@
+InitAnim "C:\skybox", 1
+Zoom 1.0
+CamP 0
+CamH 0
+FRend
+CamH 180
+FRend
+CamH 90
+FRend
+CamH 270
+FRend
+CamH 270
+CamP -90
+FRend
+CamP 90
+Frend
