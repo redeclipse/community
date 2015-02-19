@@ -1,0 +1,9 @@
+*~
+.directory
+.DS_Store
+*.orig
+*.core
+*.diff
+*.patch
+*.out
+.gitattributes
