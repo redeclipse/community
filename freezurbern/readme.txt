@@ -6,4 +6,4 @@ This readme includes the attribution required by the license, hence you are enco
 Content released under the Creative Commons Attribution-ShareAlike 4.0 International
 https://creativecommons.org/licenses/by-sa/4.0/
 
-This license applies to all the files in this freezurbern folder.
+This license applies to all the files in this freezurbern folder, unless otherwise specified.
