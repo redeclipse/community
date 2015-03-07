@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800pt"
+   height="800pt"
+   viewBox="0 0 1000 1000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="AbstraktFeuer.svg"
+   inkscape:export-filename="D:\Samuel Daten\Ico\Eigene Ico\Inkscape\AbstraktesFeuer.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4816"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4818" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6999999996306537"
+     inkscape:cx="294.7721290149714"
+     inkscape:cy="455.9791212889463"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="false"
+     units="pt"
+     showguides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.362161)">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.031;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 121.1144026667331,794.1006388834547 c 14.3890105079216,-28.0170007958918 33.6563795909518,-78.4459795815884 57.3769414806556,-173.9442329389492 14.2249422821606,-57.2691805688313 80.139616359696,192.6159037536806 101.970358586504,78.4810071413492 11.1619948180504,-58.3568396946736 32.882239692501,-117.2994590785535 67.7405564579435,-207.3423366654553 33.317931313097,-86.0638920364656 116.4228924554355,-189.5969631227204 125.343027824755,-283.8846176330715 7.602611211354,-80.3611548024431 14.3007688501461,34.3914061185833 72.6463692509991,142.5982810213659 27.1263354233696,50.3080945874473 59.0217378558948,156.2181715512861 75.2613650580821,212.5815375967943 14.4823002434929,50.2641581387379 70.5205400000009,-57.0825728586509 70.5205400000009,-57.0825728586509 68.5832636167388,179.943930317094 43.5476499736177,259.6557285073592 43.5476499736177,259.6557285073592 0,0 5.9549331628118,23.6577474298673 76.1923414346013,-72.4385528850331 29.9134227876483,-40.9264710982068 32.8939537897553,52.0789499975127 65.7575914628602,94.6195890106611 79.8235192357679,139.0375817642936 -247.4968607022938,136.3664328264659 -383.1047012440008,136.8890945612978 -131.7612920019549,0.507836310838 -446.69876477847952,-7.4760766033181 -373.2520402860185,-130.1329248576676 z"
+       id="path4000"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssscscac" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:40.4701728821;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4008"
+       width="909.5298461914062"
+       height="909.5298461914062"
+       x="45.23507690429688"
+       y="97.59723663330078"
+       ry="62"
+       rx="62"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
