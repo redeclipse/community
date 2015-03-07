@@ -5,7 +5,7 @@ Because its easier for me to update this files with Google Drive, here are every
 Google Drive: https://drive.google.com/folderview?id=0B__JdfXlvXlxRlpNVVRsOVdFSmM&usp=sharing
 
 In the GitHub directory are not every time the newest version, because i dont want to spam the GitHub repository with every small fix.
-Furthermore GitHub has not all data (like screenshots and the REmapCollection).
+Furthermore GitHub has not all data (like screenshots and the REmapCollection). But i will try to update as fast as possible.
 GitHub Community repository: https://github.com/red-eclipse/community/tree/master/Iceflower
 
 
