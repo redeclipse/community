@@ -1,8 +1,0 @@
-Name: Water Run
-Mode: Race (Time Trial)
-Creator: Iceflower
-
-About: Its a special race map because its not like "normal" that you walk on a solid ground, its here often water. The whole theme is water. Sometimes you can't see the way and a hidden place is there too. Its not possible to go with head in lava, its fixed here (Thank you MaxPayne, who show me how to do it :D )
-Difficult: Not for beginners, more for advanced, which need good response and accuracy.
-
-License: Red Eclipse General License
