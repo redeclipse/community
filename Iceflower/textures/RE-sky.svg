@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 999.9999880656118 999.9999880410413"
+   id="svg4166"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="RE-sky.svg"
+   inkscape:export-filename="D:\Samuel Daten\Ico\Eigene Ico\Inkscape\RE\RE-sky.png"
+   inkscape:export-xdpi="46.08000183105469"
+   inkscape:export-ydpi="46.08000183105469">
+  <defs
+     id="defs4168" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#0064cd"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6999999996306532"
+     inkscape:cx="194.3989836908502"
+     inkscape:cy="482.5421875605966"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     borderlayer="false" />
+  <metadata
+     id="metadata4171">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.36228930856214)">
+    <path
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:260;stroke-opacity:1"
+       d="m 94,239.3622893085621 -47,0 0,-140 140,0 0,46.99999999999999 -93,0 z"
+       id="path4144"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:260;stroke-opacity:1"
+       d="m 94,865.362289308562 -47,0 0,140 140,0 0,-47 -92.99999999999998,0 z"
+       id="path4144-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:260;stroke-opacity:1"
+       d="m 906,865.3622893085621 47,0 0,139.9999999999999 -140,0 0,-46.9999999999999 93,0 z"
+       id="path4144-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:260;stroke-opacity:1"
+       d="m 906,238.9332893085622 47,0 0,-139.99999999999994 -140,0 0,46.99999999999995 93,0 z"
+       id="path4144-0-1-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:200.8948516846px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="361.15335"
+       y="560.10205"
+       id="text4200"
+       sodipodi:linespacing="125%"
+       transform="scale(0.8959910713840846,1.116082550304042)"><tspan
+         sodipodi:role="line"
+         id="tspan4202"
+         x="361.15335"
+         y="560.10205"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200.8948516846px;line-height:100%;font-family:Play;-inkscape-font-specification:'Play, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#eeeeee;fill-opacity:1">SKY</tspan></text>
+  </g>
+</svg>
