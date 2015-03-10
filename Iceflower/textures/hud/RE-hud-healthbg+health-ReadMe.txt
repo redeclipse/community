@@ -11,4 +11,7 @@ RE-hud-healthbg-export.svg
 RE-hud-health-export.svg
 - Is the match health bar to the healthbg-export for making a RE style with it.
 
+RE-hud-healthbg+health-export.svg
+-Just both healthbg and health bar in one data.
+
 The export data are edited to export them easily.
