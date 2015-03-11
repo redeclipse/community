@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="493"
-   height="1034.442993164062"
-   viewBox="0 0 492.9999941163466 1034.442980793202"
+   height="1008.443908691406"
+   viewBox="0 0 492.9999941163466 1008.443896631467"
    id="svg4166"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5000000023743301"
-     inkscape:cx="-36.40633938382098"
-     inkscape:cy="485.9986719379058"
+     inkscape:cx="86.00000427379405"
+     inkscape:cy="471.1799608346479"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,8 +39,8 @@
      inkscape:snap-smooth-nodes="true"
      fit-margin-left="25"
      fit-margin-right="25"
-     fit-margin-top="25"
-     fit-margin-bottom="25" />
+     fit-margin-top="12"
+     fit-margin-bottom="12" />
   <metadata
      id="metadata4171">
     <rdf:RDF>
@@ -57,7 +57,7 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-253.5000000000002,-35.14032479385469)">
+     transform="translate(-253.5,-48.14032479385401)">
     <g
        id="g4592"
        style="fill:#ffffff;fill-opacity:1"

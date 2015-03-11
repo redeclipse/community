@@ -14,4 +14,4 @@ RE-hud-health-export.svg
 RE-hud-healthbg+health-export.svg
 -Just both healthbg and health bar in one data.
 
-The export data are edited to export them easily.
+The export data are edited for export them easily to a usefull RE style.
