@@ -1,0 +1,4 @@
+The flag.png needs a transparency, for this do:
+1. follow the steps in the texture-ReadMe for making a RE styled icon
+2. merge all levels (exluded the white image (which is still invisible)) to one and set the transparency of this new level to 95%
+3. export it
