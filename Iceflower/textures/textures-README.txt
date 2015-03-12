@@ -1,5 +1,7 @@
-All .svg files are made myself (Iceflower) with Inkscape. (You can find the RE-style images of the Edit Icons too.) The .svg of some have done unnamed but these are NOT include (at the moment).
+All .svg files are made myself (Iceflower) with Inkscape. (You can find the RE-style images of the Edit Icons too.)
 The file structure are the same as in the RE main directory. (Not the Edit Icons)
+
+!IMPORTANT!: Please READ the WHOLE ReadMe (name-ReadMe.txt) of some vector data before you edit or open them. Because if there exist there are useful tips and hints.
 
 To edit and export you need: A Vector Programm like Inkscape (others are possible too) and GIMP and if you want them with a RE style you need the re-icon fu-script from unnamed.
 
