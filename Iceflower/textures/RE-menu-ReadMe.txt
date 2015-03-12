@@ -1,0 +1,1 @@
+Delete the Diffuse und Highlight level of the RE styled part2 and copy only the blue arrow and the shadow to the part1.

@@ -1,0 +1,1 @@
+Same as "RE-hud-impulse-export.svg".
