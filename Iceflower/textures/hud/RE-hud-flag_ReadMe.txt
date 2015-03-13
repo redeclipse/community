@@ -1,0 +1,1 @@
+The file "RE-hud-flag_38rotate" is rotate with 38° degree to the left and centered to the working area.
