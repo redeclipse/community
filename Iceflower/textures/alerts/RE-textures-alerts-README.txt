@@ -1,0 +1,1 @@
+The background is the same as the (horizontal mirrored) "RE-hud-inventory.svg".
