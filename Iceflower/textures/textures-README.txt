@@ -1,5 +1,5 @@
 All .svg files are made myself (Iceflower) with Inkscape. (You can find the RE-style images of the Edit Icons too.)
-The file structure are the same as in the RE main directory. (Not the Edit Icons)
+The file structure are the same as in the RE main directory. (Not the Edit Icons and particles)
 
 !IMPORTANT!: Please READ the WHOLE ReadMe (name-ReadMe.txt) of some vector data before you edit or open them. Because if there exist there are useful tips and hints.
 !IMPORTANT!: the files with "name-export.svg" are only! for export because of individual changes which makes editing after it much harder but easier to make an RE style of them (e.g. merged parts because of non intentional (visible) paths which will be import then "false").
