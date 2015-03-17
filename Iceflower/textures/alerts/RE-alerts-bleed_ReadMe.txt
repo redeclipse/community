@@ -1,0 +1,1 @@
+The lightning are rotated with 20° and have a distance between (in horizontal position) of 100px down, 50px right.

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 999.9999880656118 999.9999880410413"
+   id="svg4166"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="RE-particles-snow.svg">
+  <defs
+     id="defs4168">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter4996">
+      <feGaussianBlur
+         stdDeviation="13 13"
+         result="blur"
+         id="feGaussianBlur4998" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4949747466999947"
+     inkscape:cx="-11.9655170484092"
+     inkscape:cy="423.115700333732"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-nodes="false" />
+  <metadata
+     id="metadata4171">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.36228930856214)">
+    <path
+       style="opacity:1;fill:#eeeeee;fill-opacity:0.537254902;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:260;stroke-opacity:1;filter:url(#filter4996)"
+       d="m 462.4999771118164,102.3622893085621 0,108.62109375 -108.212890625,-90.802734375 -44.99609375,53.625 153.208984375,128.556640625 0,185.046875 -160.255859375,-92.5234375 -34.73046875,-196.9609375 -68.935546875,12.15625 24.529296875,139.115234375 -94.068359375,-54.310546875 -37.5,64.953125 94.068359375,54.310546875 -132.744140625,48.314453125 23.94140624999999,65.7792968750001 187.939453125,-68.4042968750001 160.255859375,92.5234375000001 -160.255859375,92.5234375 -187.939453125,-68.404296875 -23.94140624999999,65.779296875 132.744140625,48.314453125 -94.068359375,54.310546875 37.5,64.953125 94.068359375,-54.310546875 -24.529296875,139.115234375 68.935546875,12.15625 34.73046875,-196.9609375 160.255859375,-92.5234375 0,185.046875 -153.208984375,128.556640625 44.99609375,53.625 108.212890625,-90.802734375 0,108.6210937499999 75,0 0,-108.6210937499999 108.212890625,90.802734375 44.99609375,-53.625 -153.208984375,-128.556640625 0,-185.046875 160.255859375,92.5234375 34.73046875,196.9609375 68.935546875,-12.15625 -24.529296875,-139.115234375 94.068359375,54.310546875 37.5,-64.953125 -94.068359375,-54.310546875 132.744140625,-48.314453125 -23.94140625,-65.779296875 -187.939453125,68.404296875 -160.255859375,-92.5234375 160.255859375,-92.5234375000001 187.939453125,68.4042968750001 23.94140625,-65.7792968750001 -132.744140625,-48.314453125 94.068359375,-54.310546875 -37.5,-64.953125 -94.068359375,54.310546875 24.529296875,-139.115234375 -68.935546875,-12.15625 -34.73046875,196.9609375 -160.255859375,92.5234375 0,-185.046875 153.208984375,-128.556640625 -44.99609375,-53.623046875 -108.212890625,90.802734375 0,-108.623046875 -75,0 z"
+       id="rect4144"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
