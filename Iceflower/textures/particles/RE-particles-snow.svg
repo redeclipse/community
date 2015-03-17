@@ -15,7 +15,8 @@
    id="svg4166"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="RE-particles-snow.svg">
+   sodipodi:docname="RE-particles-snow.svg"
+   shape-rendering="crispEdges">
   <defs
      id="defs4168">
     <filter
@@ -30,13 +31,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.4949747466999947"
-     inkscape:cx="-11.9655170484092"
+     inkscape:cx="-356.4275348315923"
      inkscape:cy="423.115700333732"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
