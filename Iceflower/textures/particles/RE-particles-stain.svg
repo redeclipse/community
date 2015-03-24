@@ -15,7 +15,8 @@
    id="svg4166"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="RE-particles-stain.svg">
+   sodipodi:docname="RE-particles-stain.svg"
+   shape-rendering="crispEdges">
   <defs
      id="defs4168">
     <filter
@@ -34,13 +35,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.4949747467"
-     inkscape:cx="-17.83383839437522"
+     inkscape:cx="-362.2958561775546"
      inkscape:cy="527.8118171754363"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
