@@ -15,7 +15,7 @@
    id="svg4166"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="RE-AbstraktMapmodel-part1.svg">
+   sodipodi:docname="AbstraktMapmodel_part1.svg">
   <defs
      id="defs4168" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6999999996306314"
-     inkscape:cx="105.252737952287"
-     inkscape:cy="497.215608469621"
+     inkscape:zoom="0.6999999996306313"
+     inkscape:cx="376.4648907747464"
+     inkscape:cy="497.2156084696211"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,7 +38,8 @@
        type="axonomgrid"
        id="grid4720"
        units="mm"
-       empspacing="5" />
+       empspacing="5"
+       enabled="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4171">
