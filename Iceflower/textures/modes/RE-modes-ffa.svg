@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="RE-team.svg"
+   sodipodi:docname="RE-modes-ffa.svg"
    inkscape:export-filename="D:\Samuel Daten\Ico\Eigene Ico\Inkscape\RE-player-white.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -48,8 +48,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.828427134446543"
-     inkscape:cx="585.1956184078219"
-     inkscape:cy="526.5113718801535"
+     inkscape:cx="524.9147655184074"
+     inkscape:cy="526.5113718801534"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -147,7 +147,7 @@
        sodipodi:nodetypes="cccccc" />
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 602.193359375,516.76953125 -37.91796875,44.283203125 0,66.85546875 -268.060546875,266.53125 258.24609375,0 -30.076171875,-36.91015625 L 724.1328125,656.984375 601.833984375,779.283203125 l 112.8359375,143.5 0,-68.228515625 199.3671875,-190.66015625 -89.7265625,-103.95703125 -184.123046875,0 z"
+       d="m 602.193359375,516.76953125 -37.91796875,-49.716796875 0,160.85546875 -268.060546875,266.53125 258.24609375,0 -30.076171875,-36.91015625 L 724.1328125,656.984375 601.833984375,779.283203125 l 112.8359375,143.5 0,-68.228515625 199.3671875,-190.66015625 -89.7265625,-103.95703125 -184.123046875,0 z"
        id="path5357"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccc" />
