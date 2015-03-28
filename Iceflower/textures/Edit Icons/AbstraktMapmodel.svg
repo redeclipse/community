@@ -15,7 +15,7 @@
    id="svg4166"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="RE-AbstraktMapmodel.svg">
+   sodipodi:docname="AbstraktMapmodel.svg">
   <defs
      id="defs4168" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6999999996306314"
-     inkscape:cx="105.252737952287"
-     inkscape:cy="497.215608469621"
+     inkscape:zoom="0.6999999996306313"
+     inkscape:cx="328.4503629848664"
+     inkscape:cy="440.0727512966114"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,7 +38,8 @@
        type="axonomgrid"
        id="grid4720"
        units="mm"
-       empspacing="5" />
+       empspacing="5"
+       enabled="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4171">
@@ -48,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,7 +102,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:260;stroke-opacity:1" />
     </g>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:40.4701728821;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:40.47;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4008"
        width="909.5298461914062"
        height="909.5298461914062"

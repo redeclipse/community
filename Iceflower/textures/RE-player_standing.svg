@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="RE-player.svg"
+   sodipodi:docname="RE-player_standing.svg"
    inkscape:export-filename="D:\Samuel Daten\Ico\Eigene Ico\Inkscape\RE-player-white.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5000000023743019"
-     inkscape:cx="-85.57887130128597"
-     inkscape:cy="394.1179414819026"
+     inkscape:zoom="0.3535533923654314"
+     inkscape:cx="-253.5565592746281"
+     inkscape:cy="133.6786187790784"
      inkscape:document-units="px"
      inkscape:current-layer="g4159"
      showgrid="false"
@@ -61,7 +61,8 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:object-paths="true" />
+     inkscape:object-paths="true"
+     inkscape:snap-nodes="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -96,12 +97,6 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccccccccccc" />
       <path
-         sodipodi:nodetypes="ccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path5904"
-         d="m 654.6426051778928,620.2886012978921 27.4010626720435,32.0005745339888 0,80.2135900767689 L 975,1023.789722466303 l -225.9985035556186,0 22.0978340689344,-27.1198200932989 -259.1451504399898,-264.1671364643544 -27.1198200932988,27.1198200932987 146.6479160600591,146.6479160600595 -92.4082758734624,117.5192204042951 0,-37.1641979056319 -230.0162491242928,-219.9720673953499 90.1623529946247,-104.4613359430017 218.5415546896134,-1.933052599e-4 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15.5959997177;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
          sodipodi:nodetypes="ccsccccc"
          id="path3786-0"
          d="m 12.34764500539416,436.0859052139572 406.11927607478952,0 c 3.7387530672848,0 6.7069448615997,1.6333500060166 8.7339003946305,3.7470237542096 l 102.119148953744,106.488060943601 66.7872652818478,-69.6769856954347 -52.2072231136333,90.4249036140348 -531.4393327582577,3.814781943e-4 z"
@@ -113,6 +108,12 @@
          id="path3813-8"
          d="m 24.99999999999995,460.1934083070134 388.29563594086528,0 78.7130021414514,82.769989117214 -415.85097397837057,0 -51.1576641039461,-46.7024332422647 z"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4156"
+         d="m 488.1079154953789,730.7875692170989 183.0682451426295,330.53988708455 -20.3409161269585,25.426145137233 186.7448657325786,0 L 601,659.5943627727424 l -206.460299787626,0 -111.4654444236662,132.2159559929137 0,264.4319085171319 -24.4090993523513,30.511374156095 144.0109096086178,0 6.181839e-7,-254.2614515869873 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:40.4700012207;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:260;stroke-opacity:1" />
     </g>
   </g>
 </svg>
