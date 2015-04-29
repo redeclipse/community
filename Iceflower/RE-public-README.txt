@@ -1,5 +1,5 @@
 This folder contains my public data of the great open source game "Red Eclipse".
-Special things are written in the <Name>-ReadMe.txt which can be found in the most folders. The "texture-ReadMe" are very important if you would like to handle some of the texture files.
+Special things are written in the <Name>_ReadMe.txt which can be found in the most folders. The "textures-ReadMe" are very important if you would like to handle some of the texture files.
 
 Because its easier for me to update this files with Google Drive, here are every time the newest versions.
 Google Drive: https://drive.google.com/folderview?id=0B__JdfXlvXlxRlpNVVRsOVdFSmM&usp=sharing
