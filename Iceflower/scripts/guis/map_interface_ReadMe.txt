@@ -1,4 +1,4 @@
-This new mapinterface combines a visual and text to have the best balancing, between handling and optical appearance.
+This new mapinterface combines visual and text to have the best balancing, between handling and optical appearance.
 
 "Install" the alternativ mapinterface
 1. Copy "map_interface.cfg" as "maps.cfg" into the main Red Eclipse directory -> config -> menus
