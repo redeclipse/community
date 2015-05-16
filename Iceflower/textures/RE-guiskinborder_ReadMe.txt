@@ -1,0 +1,1 @@
+"RE-guiskinborder.svg" has the same dimensions as "RE-guiskin.svg"
