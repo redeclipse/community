@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 999.9999880656118 999.9999880410413"
+   id="svg4166"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="RE-hud-bombtaken_part2.svg">
+  <defs
+     id="defs4168" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6999999996306325"
+     inkscape:cx="277.4221868804954"
+     inkscape:cy="349.8710980957569"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:snap-nodes="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata4171">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.36228930856214)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 347.1684382206776,195.5302580585637 c -23.7784582614361,0.1089692042704 -47.9108161868798,17.5349944046363 -32.380859375,59.83203125 l 123,334.9999999999998 -213,-339.9999999999994 c -25.6772371487678,-40.9762180911186 -91.0591543744408,-14.9179955542304 -70,35 l 135,319.9999999999998 L 92.57273509567771,373.2197111835637 C 55.12233382815824,330.0182931951775 5.271910820284093,374.1534138434469 29.78757884567767,420.362289308564 74.54588523945233,527.3067460096491 137.9533512663031,643.6271440507988 137.9533512663031,643.6271440507988 c 44.6815187427184,-15.384907228418 89.0000159589785,10.0535514469376 151.8342275793745,46.7351452577634 l 185.0000000000002,108 226.3461017452111,-83.9366793971825 c 28.4330093425364,-10.5439076311909 30.8938642154045,22.5435253534539 13.6538982547883,28.9366793971825 l -239.9999999999992,89 -184.9999999999995,-108 c -84.9623837834312,-49.5996618843809 -136.071428549381,-78.6428571343772 -199.99999999999982,-14 l 309.99999999999982,311.9999999999998 339.9999999999992,8 c 232.3498366991438,7.094e-9 317.2278878335513,-295.8647003014118 147.9999999999999,-384.9999999999988 l -130.9999999999999,-69 L 555.787578845678,272.3622893085641 c -22.1167197689147,-32.2835500426431 -88.3019213524661,-19.8874134929933 -65.9999999999996,33 L 594.7875788456766,554.362289308563 379.7875788456779,210.3622893085637 c -6.052530328637,-9.5053160650279 -19.280005502731,-14.8931603158103 -32.619140625,-14.83203125 z"
+       id="path4144-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccsccccccsscscccsccsccs" />
+  </g>
+</svg>
