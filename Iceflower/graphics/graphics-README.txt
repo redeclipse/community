@@ -1,12 +1,12 @@
 All .svg files are made myself (Iceflower) with Inkscape. (You can find the RE-style images of the Edit Icons too.)
-The file structure are the same as in the RE main directory. (Not the Edit Icons and particles)
+The file structure are the same as in the RE main directory. (Some not)
 
 !IMPORTANT!: Please READ the WHOLE ReadMe (name_ReadMe.txt) of some vector data before you edit or open them. Because if there exist there are useful tips and hints.
 !IMPORTANT!: the files with "name_export.svg" are ONLY! for export because of individual changes which makes editing after it much harder but easier to make an RE style of them (e.g. merged parts because of non intentional (visible) paths which will be import then "false").
 
 Mostly the size of the vector files are 1000x1000px (but not every time! watch out!) because of calculating distances and so on, is easier for me.
 
-To edit and export you need: A Vector Programm like Inkscape (others are possible too) and GIMP and if you want them with a RE style you need the re-icon fu-script from unnamed (not everything needs RE style e.g. sky, notexture)
+To edit and export you need: A Vector Programm like Inkscape (others are possible too) and GIMP and if you want them with RE style you need the re-icon fu-script from Unnamed (not everything needs RE style e.g. sky, notexture or others)
 
 To install the fu-script do this:
 1. Download the fu-script (link below)
