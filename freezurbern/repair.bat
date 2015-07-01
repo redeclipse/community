@@ -1,6 +1,7 @@
 @echo off
 
 echo = = = = = = = = = = = = = = = = = = = = = = = = =
+echo This file must be from the bin folder.
 echo You are about to repair and redownload Red Eclipse
 echo This may take a long time and requires a stable internet connection
 echo This action will require Administrator access, please run this file as an admin.
