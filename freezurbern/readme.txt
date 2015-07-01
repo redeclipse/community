@@ -1,5 +1,5 @@
 Sky/Cloud boxes created by Zachery "skiingpenguins" Slocum
-(freezurbern@gmail.com)
+(mail@freezurbern.com)
 http://www.freezurbern.com
 
 This readme includes the attribution required by the license, hence you are encouraged copy it along with the content (although attribution could be provided by other reasonable means).
