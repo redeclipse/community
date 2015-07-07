@@ -2,7 +2,8 @@ All .svg files are made myself (Iceflower) with Inkscape. (You can find the RE-s
 The file structure are the same as in the RE main directory. (Some not)
 
 **!IMPORTANT!**: Please READ the **WHOLE** ReadMe (*name_ReadMe.txt*) of some vector data before you edit or open them. Because if there exist there are useful tips and hints.
-!IMPORTANT!: the files with *name_export.svg* are ONLY! for export because of individual changes which makes editing after it much harder but easier to make an RE style of them (e.g. merged parts because of non intentional (visible) paths which will be import then "false").
+
+**!IMPORTANT!:** the files with *name_export.svg* are **ONLY!** for export because of individual changes which makes editing after it much harder but easier to make an RE style of them (e.g. merged parts because of non intentional (visible) paths which will be import then "false").
 
 Mostly the size of the vector files are 1000x1000px (but not every time! watch out!) because of calculating distances and so on, is easier for me.
 
