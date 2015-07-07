@@ -8,6 +8,7 @@ In the GitHub directory are not every time the newest version, because i dont wa
 Furthermore GitHub has not all data (like screenshots and the REmapCollection).
 GitHub Community repository: https://github.com/red-eclipse/community/tree/master/Iceflower
 
+WIP: https://github.com/IceflowRE/community/tree/ice_WIP
 
 Iceflower
 
