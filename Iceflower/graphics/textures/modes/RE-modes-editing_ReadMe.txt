@@ -1,0 +1,1 @@
+"RE-modes-editing.svg" is the same as "RE-editing.svg".
