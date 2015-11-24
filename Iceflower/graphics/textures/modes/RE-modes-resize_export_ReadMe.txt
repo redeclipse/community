@@ -1,1 +1,1 @@
-"RE-modes-resize_export.svg" is based on "RE-player_standing_export.svg" (only difference sizes) so for editing please use this.
+"RE-modes-resize_export.svg" is based on "RE-templates-player_standing.svg" (only difference sizes) so for editing please use this.

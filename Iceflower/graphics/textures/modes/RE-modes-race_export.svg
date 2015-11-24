@@ -15,7 +15,7 @@
    id="svg4166"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="RE-modes-racetimed.svg"
+   sodipodi:docname="RE-modes-race_export.svg"
    inkscape:export-filename="D:\Samuel Daten\Ico\Eigene Ico\Inkscape\RE\modes\RE-modes-racetimed.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -28,14 +28,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071067843578365"
-     inkscape:cx="501.721926650307"
-     inkscape:cy="537.5073392462916"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="400.92657"
+     inkscape:cy="571.50253"
      inkscape:document-units="px"
-     inkscape:current-layer="g5033"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     showguides="true" />
+     showguides="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="true" />
   <metadata
      id="metadata4171">
     <rdf:RDF>
@@ -44,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -130,35 +139,59 @@
        sodipodi:end="0.1745329251994329"
        d="m -52.666311,684.08433 a 375,340 0 0 1 163.237041,-343.10624 375,340 0 0 1 412.13173,0 375,340 0 0 1 163.23704,343.10624 L 316.6366,625.04395 Z"
        transform="matrix(0.9781476007338056,-0.2079116908177589,0.2079116908177589,0.9781476007338056,0,0)" />
-    <g
-       id="g5033"
-       transform="matrix(0.9063077870366498,-0.4226182617406994,0.4226182617406994,0.9063077870366498,-192.7255436752216,236.5221538354368)">
-      <circle
-         transform="matrix(0.7431448254773941,-0.6691306063588581,0.6691306063588581,0.7431448254773941,0,0)"
-         r="320"
-         cy="703.3662719726562"
-         cx="-45.1667366027832"
-         id="path4144-8"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.3921568627;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-      <circle
-         transform="scale(-1,-1)"
-         id="path4239-6-8-5"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         cx="-434.61234"
-         cy="-558.0116"
-         r="45" />
-    </g>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4144-8"
+       cx="-338.1904"
+       cy="618.37805"
+       r="320"
+       transform="matrix(0.39073113,-0.92050485,0.92050485,0.39073113,0,0)" />
+    <circle
+       style="fill:#000000;fill-opacity:1"
+       id="path4289"
+       cx="437.07849"
+       cy="552.92548"
+       r="165" />
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       d="M 446.24414 260.73828 A 240 240 0 0 0 374.96289 268.74023 L 394.39062 341.25 A 165 165 0 0 1 437.07812 335.5625 A 165 165 0 0 1 602.07812 500.5625 A 165 165 0 0 1 437.07812 665.5625 A 165 165 0 0 1 272.07812 500.5625 L 322.07812 500.5625 L 232.07812 410.5625 L 152.07812 500.5625 L 197.07812 500.5625 A 240 240 0 0 0 359.93359 727.82617 A 240 240 0 0 0 627.48242 646.66602 A 240 240 0 0 0 636.63086 367.22656 A 240 240 0 0 0 446.24414 260.73828 z "
+       transform="translate(0,52.362289)"
+       id="path4289-7" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4239-6-8-5-7"
+       sodipodi:type="arc"
+       sodipodi:cx="-161.17963"
+       sodipodi:cy="-688.46051"
+       sodipodi:rx="23.203125"
+       sodipodi:ry="23.203125"
+       sodipodi:start="2.7925268"
+       sodipodi:end="0.34906585"
+       d="m -182.98343,-680.52457 a 23.203125,23.203125 0 0 1 7.94786,-26.5477 23.203125,23.203125 0 0 1 27.71189,0 23.203125,23.203125 0 0 1 7.94786,26.5477 l -21.80381,-7.93594 z"
+       transform="matrix(-0.90630779,0.42261826,-0.42261826,-0.90630779,0,0)" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4286-0-4-2"
+       sodipodi:type="arc"
+       sodipodi:cx="-161.17963"
+       sodipodi:cy="-680.52441"
+       sodipodi:rx="21.803745"
+       sodipodi:ry="23.203125"
+       sodipodi:start="3.1415927"
+       sodipodi:end="0"
+       d="m -182.98337,-680.52442 a 21.803745,23.203125 0 0 1 21.80374,-23.20312 21.803745,23.203125 0 0 1 21.80375,23.20313 l -21.80375,0 z"
+       transform="matrix(-0.90630779,0.42261826,-0.42261826,-0.90630779,0,0)" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:260;stroke-opacity:1"
-       d="M 492.5741557215353,504.8439796962739 711.5889504220376,447.5507017110113 510.4925531988003,551.5230010211336 Z"
-       id="path4551"
+       d="M 465.69344,528.13345 578.62294,498.5916 474.93261,552.20232 Z"
+       id="path4551-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
-       id="path4551-1"
-       d="M 498.1091889494756,590.8172912768002 590.3071894573446,723.1030754803606 468.3833959303799,617.5825155311547 Z"
+       id="path4551-1-0"
+       d="m 468.54744,572.46344 47.53959,68.20986 -62.86695,-54.40904 z"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:260;stroke-opacity:1" />
   </g>
 </svg>

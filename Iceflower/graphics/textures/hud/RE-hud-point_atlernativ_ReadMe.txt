@@ -1,0 +1,1 @@
+If the spikes would look original into the corners, it is rotate by 20 degree.

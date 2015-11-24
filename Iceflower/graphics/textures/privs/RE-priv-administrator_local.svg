@@ -15,7 +15,7 @@
    id="svg4166"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="RE-administrator_local.svg">
+   sodipodi:docname="RE-priv-administrator_local.svg">
   <defs
      id="defs4168" />
   <sodipodi:namedview
@@ -25,14 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3999999985226"
-     inkscape:cx="845.9624058858089"
-     inkscape:cy="432.1029851083292"
+     inkscape:zoom="0.3499999999999943"
+     inkscape:cx="-185.1657229578977"
+     inkscape:cy="369.9193285216157"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     showguides="true" />
+     showguides="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true" />
   <metadata
      id="metadata4171">
     <rdf:RDF>
