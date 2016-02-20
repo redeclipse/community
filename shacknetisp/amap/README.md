@@ -6,6 +6,6 @@ Example:
 ```
 amap.disallow = [canals]
 amap.main = [customdmmap1]
-exec ../amap.cfg
+exec amap.cfg
 //sv_*maps will be updated to include customdmmap1 and exclude canals
 ```
