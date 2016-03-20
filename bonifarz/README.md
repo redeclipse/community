@@ -1,21 +1,29 @@
 
-#Boni's community data
+#How to use scripts in Red Eclipse
 
-Here you can find random cubescript snippets, config files and works in progress, which might be useful in some way, but are not suitable for inclusion in the game (yet).
+## save the config file
+- select a file from the above list
+- press the *Raw* button to view it as raw text
+- select all and copy, then paste and save using a text editor, such as vim, gedit, emacs or notepad
+- store the script in your Red Eclipse user content
 
-##Race maps
+## where to find RE user content
+On windows, look for the "My Games" folder in your "documents", on linux or OSX, check the app data in your home dir:
+- Windows
+`%USERPROFILE%\My Documents\My Games\Red Eclipse`
 
-I guess it is a bad idea to clutter the community repo (and its history) with a bunch of low to medium quality maps, so I decided to create a separate repository. This should also make it easier to download a zip ball containing the maps pack only.
+- Linux
+`~/.redeclipse`
 
-https://github.com/bonifarz/RE-race-maps/
+- Mac/OSX
+`/Users/<username>/Library/Application Support/Red Eclipse`
+    
+## executing scripts
 
+Use the game chat (Return or T Key) or the console (backslash or backquote key) to enter a command like:
+`/exec myscriptname.cfg`
+To run the script automatically on startup, put the same line (without the leading slash) in your autoexec.cfg
+`exec myscriptname.cfg`
 
-##CubeScript and Menus
-
-To read more about this topic, check out the Red Eclipse wiki:
-
-http://redeclipse.net/wiki/CubeScript
-
-http://redeclipse.net/wiki/Menus
-
-
+## further reading
+See our wiki, redeclipse.net/wiki/Cubescript
