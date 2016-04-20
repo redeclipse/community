@@ -1,4 +1,4 @@
-All .svg files are made myself (Iceflower) with Inkscape. (You can find the RE-style images of the Edit Icons too.)
+All .svg files are made myself (Iceflower) with Inkscape. If not something different is written. (You can find the RE-style images of the Edit Icons too.)
 The file structure are the same as in the RE main directory. (Some not)
 
 **!IMPORTANT!**: Please READ the **WHOLE** ReadMe (*``name_ReadMe.txt``*) of some vector data before you edit or open them. Because if there exist there are useful tips and hints.
@@ -12,7 +12,7 @@ A Vector Programm like Inkscape (others are possible too) and GIMP and if you wa
 
 #####To install the fu-script do this:
 1. Download the fu-script (link below)
-2. Copy it to the GIMP config directory (under Windows 7: *``C:\Users\<Your name>\.gimp-2.8\scripts``*)
+2. Copy it to the GIMP config directory (Windows 7: *``C:\Users\<Your name>\.gimp-2.8\scripts``* | Linux: *``/home/<Your name>/.gimp-x.x/srcipts/``*)
 
 #####To edit the vector data do this:
 1. Install a vector programm you like to use
@@ -30,7 +30,7 @@ A Vector Programm like Inkscape (others are possible too) and GIMP and if you wa
 #####Links
 * Inkscape: https://inkscape.org/de/download/
 * GIMP: http://www.gimp.org/
-* re-icon fu script: https://drive.google.com/folderview?id=0B__JdfXlvXlxbC1pMExvNzBZN28&usp=sharing&tid=0B__JdfXlvXlxRlpNVVRsOVdFSmM
+* re-icon fu script: https://github.com/red-eclipse/community/tree/master/Iceflower/graphics/gimpscript
 
 
 #####License
