@@ -9,4 +9,4 @@ https://github.com/IceflowRE/community/tree/ice_WIP
 
 Iceflower
 
-Contact: http://redeclipse.net/forum/memberlist.php?mode=viewprofile&u=161
+Contact: iceflower@gmx.de or http://redeclipse.net/forum/memberlist.php?mode=viewprofile&u=161

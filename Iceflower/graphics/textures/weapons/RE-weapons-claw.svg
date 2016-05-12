@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000.000007751872 1000.000020984042"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="RE-mode-gladiator_d (Kopie).svg"
+   inkscape:export-filename="/home/samuel/Daten/Bearbeitung/RE-mode-gladiator_d (Kopie).svg.png"
+   inkscape:export-xdpi="11.52000045776367"
+   inkscape:export-ydpi="11.52000045776367">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4949747466999712"
+     inkscape:cx="11.663090555753"
+     inkscape:cy="492.6987766869022"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Iceflower S</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Iceflower S</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>Red Eclipse</dc:source>
+        <dc:description>Only for the game Red Eclipse.
+www.redeclipse.net</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.36216050996518)">
+    <g
+       id="g4274"
+       transform="matrix(0.79960019990005,-0.79960019990005,0.79960019990005,0.79960019990005,-279.6998784687378,511.4928667488737)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 462,120.3621605099652 c -16.1323828480207,18.6681991360839 -15.240234375,58.2164203134421 -15.240234375,96.759765625 0.021466284174,56.3815523408204 -0.7207995042257,79.7986298601804 5.240234375,83.240234375 l 0,70 -5,5 1,125 -5,0 -2,239.9999999999998 -38.5,3 -9,-232.9999999999998 -15,0 -9.5,-123 -4,-3 -4,-74 3,-15 c 0,0 -0.8841983114352,-148.2403318464803 -22.5,-162 -28.4954497310924,36.0948354259406 -13.8264083651041,95.9887978625025 -11.5,165 l 6,14 4,74 -4,3 12,175.9999999999998 -5,39 c 0,50.7240337139032 13.0134799585588,101.1649157906104 11,150 l -5,6 -1,63 13,7 9,65 28,27 10,37 36,0 3,-19 30,0 3,19 36,0 10,-37 28,-27 9,-65 13,-7 -1,-63 -5,-6 c -2.0134799585589,-48.8350842093896 11,-99.275966286097 11,-150 l -5,-39 12,-175.9999999999998 -4,-3 4,-74 6,-14 c 2.326408365104,-69.0112021374975 16.9954497310923,-128.9051645740594 -11.5,-165 -21.6158016885651,13.7596681535197 -22.5,162 -22.5,162 l 3,15 -4,74 -4,3 -9.5,123 -15,0 -9,232.9999999999998 -38.5,-3 -2,-239.9999999999998 -5,0 1,-125 -5,-5 0,-70 c 5.9610338792257,-3.4416045148196 5.2187680908258,-26.8586820341796 5.240234375,-83.240234375 0,-38.5433453115579 0.8921484730207,-78.0915664889161 -15.240234375,-96.759765625 z"
+         id="path4204"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <rect
+         y="557.3621826171875"
+         x="388"
+         height="15"
+         width="63.3870735168457"
+         id="rect4221"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <rect
+         transform="scale(-1,1)"
+         y="557.3621826171875"
+         x="-536"
+         height="15"
+         width="63.3870735168457"
+         id="rect4221-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
