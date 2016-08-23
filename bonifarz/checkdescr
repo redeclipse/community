@@ -1,0 +1,28 @@
+// check usage.cfg for mismatches of bitfield descriptions
+newgui checkdescr [
+    j = 0
+    loop i (getvarinfo -1 1 0 16 128) [
+        scurvar = (getvarinfo $i 1 0 16 128 )
+        scurfields = (getvarfields $scurvar)
+        if (> $scurfields 1) [
+            scurmax = (getvarmax $scurvar)
+            scurfmax = (- (<< 1 $scurfields) 1)
+            if (!= $scurmax $scurfmax) [
+                j = (+ $j 1)
+                guilist [
+                    guitext $scurvar
+                    guitext ": max = "
+                    guitext $scurmax
+                    guitext "; fields = ["
+                    loop k $scurfields [
+                        guitext (getvarfields $scurvar $k)
+                        guistrut 1
+                    ]
+                    guitext "]"
+                ]
+            ]
+        ]
+    ]
+    guitext  $j
+]
+showgui checkdescr
