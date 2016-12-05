@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Red Eclipse
+Exec=/home/user/redeclipse/redeclipse.sh
+Icon=/home/user/redeclipse/redeclipse.ico
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Game;
+
