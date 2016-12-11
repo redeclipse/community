@@ -1,0 +1,17 @@
+[Unit]
+Description=Red Eclipse server
+Wants=network-online.target
+Requires=network.target network-online.target
+
+[Service]
+Environment=SERVER_HOME=/srv/redeclipse/servers/NAME
+ExecStartPre=/bin/mkdir $SERVER_HOME
+ExecStart=/srv/redeclipse/base/src/redeclipse_server_linux -h$SERVER_HOME
+ExecStopPost=/bin/sleep 2
+WorkingDirectory=/srv/redeclipse/base/
+Restart=on-failure
+User=redeclipse
+Group=redeclipse
+
+[Install]
+WantedBy=multi-user.target
