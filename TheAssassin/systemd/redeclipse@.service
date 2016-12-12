@@ -6,7 +6,9 @@ Requires=network.target
 
 [Service]
 Environment=SERVER_HOME=/srv/redeclipse/servers/%i
-ExecStartPre=/bin/mkdir ${SERVER_HOME}
+ExecStartPre=/bin/mkdir -p ${SERVER_HOME}
+ExecStartPre=/bin/chown redeclipse:redeclipse ${SERVER_HOME}
+ExecStartPre=/bin/chmod 0700 ${SERVER_HOME}
 ExecStart=/srv/redeclipse/base/src/redeclipse_server_linux -h${SERVER_HOME}
 ExecStopPost=/bin/sleep 2
 ExecReload=/bin/kill -HUP ${MAINPID}
