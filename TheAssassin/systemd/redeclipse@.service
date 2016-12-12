@@ -6,17 +6,16 @@ Requires=network.target
 
 [Service]
 Environment=SERVER_HOME=/srv/redeclipse/servers/%i
-ExecStartPre=/bin/mkdir $SERVER_HOME
-ExecStart=/srv/redeclipse/base/src/redeclipse_server_linux -h$SERVER_HOME
+ExecStartPre=/bin/mkdir ${SERVER_HOME}
+ExecStart=/srv/redeclipse/base/src/redeclipse_server_linux -h${SERVER_HOME}
 ExecStopPost=/bin/sleep 2
-ExecReload=/bin/kill -HUP $MAINPID
+ExecReload=/bin/kill -HUP ${MAINPID}
 WorkingDirectory=/srv/redeclipse/base/
 Restart=always
 RestartSec=5
 User=redeclipse
 Group=redeclipse
-ProtectSystem=strict
-ReadWritePaths=/srv/redeclipse/
+ProtectSystem=full
 
 [Install]
 WantedBy=multi-user.target
