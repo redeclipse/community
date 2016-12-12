@@ -37,7 +37,6 @@ If you haven't created it yet, please create the `redeclipse` user:
     sudo adduser --system --group --disabled-login --disabled-passwd \
     --home /srv/redeclipse redeclipse
 
-
 Now put a distribution of Red Eclipse in the new home directory.
 The easiest way to get Red Eclipse is installing it from Git.
 
@@ -54,7 +53,7 @@ The easiest way to get Red Eclipse is installing it from Git.
     cd /srv/redeclipse
 
     # install Git and clone the repository
-    git clone --recursive https://github.com/red-eclipse/base.git
+    git clone -b stable --recursive https://github.com/red-eclipse/base.git
 
     # build the game
     cd base
@@ -63,13 +62,8 @@ The easiest way to get Red Eclipse is installing it from Git.
     # optional: leave the redeclipse user shell
     exit
 
-As you might guess from its name, `redeclipse-NAME.service` is a template.
-This way, you can run multiple Red Eclipse servers in parallel.
-
-`NAME` should be substituted with a descriptive identifier.
-
-First, create some server home directories (where the configuration goes for
-example):
+To continue, create some server home directories (where the configuration goe
+for example):
 
     # get a shell for the redeclipse user
     sudo -sHu redeclipse
@@ -85,17 +79,53 @@ example):
     #mkdir tertiary
     #mkdir ...
 
-Now copy the script to the directory `/etc/systemd/system/` and rename it (use
+You can/should copy the `servinit.cfg` example from the GitHub repository to
+those new home directories to configure the server.
+
+Now copy both service scripts to the directory `/etc/systemd/system/` (use
 the identifier you assigned to the directory).
 
-Next, edit the script, and replace `NAME` in the environment variable
-assignment that specifies the server home.
+The script is a so-called systemd template, that means you don't have to
+configure every single server.
 
 And that's it! Reload your systemd daemon and the service should work as any
 other one on your server.
 
     sudo systemctl daemon-reload
-    sudo systemctl redeclipse-NAME start
-    sudo systemctl redeclipse-NAME status
 
-The last command shows you if the service works.
+    # starts all the services
+    sudo systemctl redeclipse start
+
+    # view the status of a single service identified by its home directory's
+    # name
+    sudo systemctl status redeclipse@main
+
+The last command shows you if the service has successfully started and is
+running.
+
+
+## Notes
+
+By default, the Red Eclipse service will shutdown itself once a day to
+eventually apply updates. The script that triggers the update automatically
+restarts the service in that case. These service scripts don't use the Red
+Eclipse auto updater, which means the restart is pointless.
+
+For your convenience, the service automatically restarts itself on such
+shutdowns. Of course, if you use `systemctl` to stop them, it won't restart.
+
+If you wish to disable those automatic shutdowns, please edit your
+`servinit.cfg` and append the following snippet:
+
+    maxruntime 0
+
+By default, the services restart themselves on any crashes, as the server is
+not perfect (what ever is perfect though). You can change the value `Restart=`
+to `Restart=on-success` if you do not want the server to automatically restart
+on every crash but only automatic shutdowns.
+
+If you want to host different versions of your servers, you will have to copy
+the service files, have to edit them and then have to create a separate
+Red Eclipse distribution and another server home directory base.
+As this is an advanced configuration, this is not covered here. Feel free to
+add instructions.

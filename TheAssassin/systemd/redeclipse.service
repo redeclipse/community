@@ -1,0 +1,17 @@
+# This service is actually a systemd target,
+# but we are using a service since targets cannot be reloaded.
+
+[Unit]
+Description=Red Eclipse services wrapper
+Wants=network-online.target
+Requires=network.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/bin/true
+ExecReload=/bin/true
+WorkingDirectory=/srv/redeclipse/base/
+
+[Install]
+WantedBy=multi-user.target
