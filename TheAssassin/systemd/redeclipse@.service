@@ -2,7 +2,7 @@
 Description=Red Eclipse server
 PartOf=redeclipse
 Wants=network-online.target
-Requires=network.targe
+Requires=network.target
 
 [Service]
 Environment=SERVER_HOME=/srv/redeclipse/servers/%i
