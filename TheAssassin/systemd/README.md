@@ -57,7 +57,7 @@ The easiest way to get Red Eclipse is installing it from Git.
 
     # build the game
     cd base
-    make -C src -j8 all install
+    make -C src -j8 server install-server
 
     # optional: leave the redeclipse user shell
     exit
