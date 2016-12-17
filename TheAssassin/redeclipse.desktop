@@ -2,10 +2,9 @@
 Version=1.0
 Encoding=UTF-8
 Name=Red Eclipse
-Exec=/home/user/redeclipse/redeclipse.sh
+Exec=/home/user/redeclipse/redeclipse.sh %u
 Icon=/home/user/redeclipse/src/redeclipse.ico
 StartupNotify=false
 Terminal=false
 Type=Application
 Categories=Game;
-
