@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="stats.svg"
+   inkscape:export-filename="/home/acerspyro/Desktop/Vectors/unknown.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4303">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop4305" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4307" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4614">
+      <feFlood
+         flood-opacity="0.752941"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4616" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4618" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur4620" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset4622" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4624" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4303"
+       id="linearGradient4427"
+       x1="256"
+       y1="256"
+       x2="256"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-8,8)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#213762"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.46921783"
+     inkscape:cx="156.80707"
+     inkscape:cy="315.97875"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       empspacing="8" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36216)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4274"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Akashi;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Akashi;font-stretch:normal;font-variant:normal;"><flowRegion
+         id="flowRegion4276"><rect
+           id="rect4278"
+           width="256"
+           height="256"
+           x="0"
+           y="0"
+           style="-inkscape-font-specification:Akashi;font-family:Akashi;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+         id="flowPara4280"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4282"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4284"><rect
+           id="rect4286"
+           width="264"
+           height="248"
+           x="0"
+           y="0" /></flowRegion><flowPara
+         id="flowPara4288"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4378"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4380"><rect
+           id="rect4382"
+           width="255.46875"
+           height="253.90625"
+           x="1.171875"
+           y="1.3124989" /></flowRegion><flowPara
+         id="flowPara4384"></flowPara></flowRoot>    <path
+       style="fill:url(#linearGradient4427);fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4614)"
+       d="m 8,24 0,8 8,0 0,-8 z m 24,0 0,192 -24,0 0,8 24,0 0,24 8,0 0,-24 192,0 0,-8 -192,0 0,-192 z m -24,16 0,8 8,0 0,-8 z m 88,8 0,160 32,0 0,-160 z m -88,8 0,8 8,0 0,-8 z m 0,16 0,8 8,0 0,-8 z m 0,16 0,8 8,0 0,-8 z m 184,8 0,112 32,0 0,-112 z m -184,8 0,8 8,0 0,-8 z m 0,16 0,8 8,0 0,-8 z m 0,16 0,8 8,0 0,-8 z m 40,-8 0,80 32,0 0,-80 z m -40,24 0,8 8,0 0,-8 z m 0,16 0,8 8,0 0,-8 z m 136,8 0,32 32,0 0,-32 z m -136,8 0,8 8,0 0,-8 z m 0,16 0,8 8,0 0,-8 z m 40,40 0,8 32,0 0,-8 z m 48,0 0,8 32,0 0,-8 z m 48,0 0,8 32,0 0,-8 z m 48,0 0,8 32,0 0,-8 z"
+       transform="translate(0,796.36216)"
+       id="rect4402"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
