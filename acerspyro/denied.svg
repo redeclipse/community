@@ -17,22 +17,22 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="denied.svg"
-   inkscape:export-filename="/home/acerspyro/Desktop/Vectors/servers.svg.png"
+   inkscape:export-filename="/home/acerspyro/Desktop/Vectors/denied.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4303">
+       id="linearGradient4183">
       <stop
-         style="stop-color:#808080;stop-opacity:1;"
+         style="stop-color:#808080;stop-opacity:1"
          offset="0"
-         id="stop4305" />
+         id="stop4185" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1"
          offset="1"
-         id="stop4307" />
+         id="stop4187" />
     </linearGradient>
     <filter
        style="color-interpolation-filters:sRGB;"
@@ -68,13 +68,45 @@
     </filter>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4303"
-       id="linearGradient4309"
+       xlink:href="#linearGradient4183"
+       id="linearGradient4189"
        x1="256"
        y1="256"
        x2="256"
        y2="0"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4191">
+      <feFlood
+         flood-opacity="0.752941"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4193" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4195" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur4197" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset4199" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4201" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -83,12 +115,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8101934"
-     inkscape:cx="60.318712"
-     inkscape:cy="141.69309"
+     inkscape:zoom="0.64"
+     inkscape:cx="17.690183"
+     inkscape:cy="228.475"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
@@ -97,7 +129,7 @@
      inkscape:window-x="1440"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-nodes="true">
     <inkscape:grid
@@ -122,11 +154,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36216)">
-    <path
-       style="fill:url(#linearGradient4309);fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4614)"
-       d="M 128 16 C 66.144108 16 16 66.144108 16 128 C 16 189.85589 66.144108 240 128 240 C 189.85589 240 240 189.85589 240 128 C 240 66.144108 189.85589 16 128 16 z M 128 32 C 151.62986 32 173.2608 40.542614 189.98633 54.701172 L 54.701172 189.98633 C 40.542614 173.2608 32 151.62986 32 128 C 32 74.980664 74.980664 32 128 32 z M 201.29883 66.013672 C 215.45739 82.739199 224 104.37014 224 128 C 224 181.01934 181.01934 224 128 224 C 104.37014 224 82.739199 215.45739 66.013672 201.29883 L 201.29883 66.013672 z "
-       transform="translate(0,796.36216)"
-       id="path4256" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4274"
@@ -148,5 +175,10 @@
            height="248"
            x="0"
            y="0" /></flowRegion><flowPara
-         id="flowPara4288" /></flowRoot>  </g>
+         id="flowPara4288" /></flowRoot>    <path
+       style="fill:url(#linearGradient4189);fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4191)"
+       d="M 128 16 A 112 112 0 0 0 16 128 A 112 112 0 0 0 128 240 A 112 112 0 0 0 240 128 A 112 112 0 0 0 128 16 z M 128 40 A 88 88 0 0 1 181.08203 57.949219 L 57.925781 181.10547 A 88 88 0 0 1 40 128 A 88 88 0 0 1 128 40 z M 198.07422 74.894531 A 88 88 0 0 1 216 128 A 88 88 0 0 1 128 216 A 88 88 0 0 1 74.919922 198.05078 L 198.07422 74.894531 z "
+       transform="translate(0,796.36216)"
+       id="path4175" />
+  </g>
 </svg>
