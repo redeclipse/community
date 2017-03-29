@@ -1,0 +1,1 @@
+All of my work here is in the public domain. You are free to use it in anything without anyone's permission.
