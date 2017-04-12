@@ -4,6 +4,3 @@
 [submodule "base.wiki"]
 	path = wiki/base
 	url = https://github.com/red-eclipse/base.wiki.git
-[submodule "data.wiki"]
-	path = wiki/data
-	url = https://github.com/red-eclipse/data.wiki.git
