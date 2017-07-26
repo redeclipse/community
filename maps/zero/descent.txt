@@ -1,0 +1,104 @@
+Descent
+------------------
+"Descent" Map By: Zero
+Version: 2.5
+
+License: CC BY-SA 3.0 Unported
+( http://creativecommons.org/licenses/by-sa/3.0/ )
+
+Email: gaven85@aim.com
+
+Version Summary:
+This map just keeps getting better with each update. With
+two more teams added. Playing with mutator "multi" makes
+this map even more action packed. Adding more structures,
+doors, and textures makes this maps gaming experience more
+realistic. With 4 more jump pads it's much easier to access 
+and maneuver all throughout the arena. This map was designed
+with a open world like environment with obstacles to take cover
+or go all out offensive. Online tested and approved. Please keep
+me informed with fixes/ideas/questions/comments.
+
+
+Version History:
+
+V 2.5:
+- Lowered the ships to improve frame rate.
+- Added a bunch of textures.
+- Rounded off a bunch of diagonals.
+- More Structures
+- Less 45 Degree Angles
+- Sound Replacement
+- Maybe Ships For Other Teams. (Yellow - Kappa & Green -Sigma) - This will be added once I'm satisfied with ship design.
+- Cryogenic sleep pod like safety spawn starts.
+- Two medic helicopters.
+- Solar panel structures.
+- More places to go downstairs.
+- Replaced sounds with other sounds.
+- Added debatable sniping points. I can get rid of these if it's too cluttered.
+- Added central area to defend or grab rocket launcher with effects.
+- Replaced two rocket launchers with grenades.
+- Shrank texture sizes of boxes and crates to be more life like.
+- Garage like doors inspired by map "Depot"
+- Ventilation shafts for more ways to escape lower ground levels.
+- All around new textures added along with few other structures.
+- Added textures and colors for multi use.
+- Added more lights to new structures.
+- Shrank size of shelve units.
+- Added Support beams to arena.
+- Deleted hidden objects not known to exist.
+- Deleted/added more map models.
+- And more. Have idea's? Let me know.
+
+
+V 2.0:
+- Added two more teams for four player "Multi"
+- Added "Red Eclipse" Advertising.
+- Added team logos. (Mapmodels)
+- Added more Detail/Textures/Structures.
+- Removed/Added lights.
+- Added 4 more jump pads.
+- Replaced team ship doors.
+- Added doors to downstair area's.
+- Added doors to descent entry.
+- Added sounds to jump pads and doors.
+- Replaced weapons with other weapons.
+- Clipped necessary area's.
+- Removed player statues.
+
+
+V 1.5:
+- Removed rain and flame particles.
+- Removed rain sounds.
+- Edited less 45 degree angles.
+- Clipped necessary area's.
+- Added player statues.
+- Added lights inspired by "raiden" from map "cutec"
+- Removed 2 rocket launchers.
+- Added 4 windows.
+- Edited crane claws to be masculine in detail.
+- Edited a few textures.
+- Added sniping points in truck trailers.
+
+
+V 1.0:
+- Fixed few textures inside/outside ships.
+- Edited waypoints.
+- Clipped a few area's necessary.
+- Added optional teleports from ships to arena.
+- Added more detail to arena. (Pipes, Shelve racks, road blocks, weapon displays)
+- Added ceilings to team sniping points.
+- Edited central death trap to be more simpler.
+
+
+V 0.5:
+- Made Public.
+
+Publicity:
+Want to add your own publicity stamp? Message or Leave a 
+comment in the forum, email, or find me "Zero" in actual 
+game play. Want to remain anonymous? Let me know.
+
+"This map is a masterpiece." - N/A
+
+"I play this map for hours on end." - N/A

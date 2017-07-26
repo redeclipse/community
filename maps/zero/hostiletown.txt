@@ -1,0 +1,79 @@
+"Hostile Town" Map By: Zero
+Version : 3.5 - (Requires updated version of Dziq's Map Assets)
+Release Date : 05/14/17
+Weapons : All but Tazer
+Modes : All but Race
+Death Traps : Central Power Lines and Over fence Death Material. (This will be changed to Hurt. Letting players know to jump back in arena or die.)
+
+License: CC BY-SA 3.0 Unported
+( http://creativecommons.org/licenses/by-sa/3.0/ )
+
+Credits : Dziq - Map Assets
+
+Version History :
+3.5
+- Added and deleted some map models
+- Clipped and noclipped the map (This may change for layout is still determined)
+- Added some lights
+- Removed first floors of bases to remove in game map models and created geometry to improve performance
+- Removed alpha and omega's entry through ceilings to also help performance
+- Added material's like Death which will later be replaced with hurt material so players will know they jumped over the fence beyond map borders and need to re-enter arena
+- Re textured area's
+- Added and also screwed up blend mapping sample when adding wooden looking texture signs. Getting a better understanding of blendmapping
+- Edited gravity settings from default 50. to 60
+- Raised building heights on all structures so players can't jump on top. ( You know who you are while I was editing online ;) While you were secretly creating rocket launcher spawns under the map and jumping on top of train depot =P )
+- Anything else I can't think of at the moment for I didn't jot this stuff down while editing. Check out latest version and see if you find anything new
+- Removed particles for lower systems
+
+
+3.0
+- Added more map models (Including Dziq's Map Assets)
+- Edited textures
+- Copy and pasted another barn geometry.
+- Edited clip/noclip
+- Moved geometry around
+- Centered train to map
+- Added more sounds
+- Some crates/concrete barriers has been lowered in scale so players can shoot over
+- Train and carts has been lowered so players can shoot over
+- A Smoke like particles to look like sand blowing has been added. (Experimental and Optional Download)
+- Added to Sample blendmapping
+- Removed alpha/omega mapmodels
+- Added more affinities for bomberball
+- Added allias names to affinities for defend and control locations
+- Added neutral player starts
+- Edited fog distance and color
+- Edited skybox and cloud layer
+- And more...
+
+2.5
+- Edited right building geometry to be extended
+- Added to right building decor
+- Edited textures on structures
+- Added shed structure next to train mill with map models
+- Added sounds
+- Repair sign moved and edited
+
+2.0
+- Added sample lights
+- Added another sunlight
+- Added more map models
+- Added generic background structures
+- Moved flag affinities outside
+- Added death material to central power lines
+- Edit / Added sounds
+
+1.0
+- Fixed name of map from "Hostile" to "Hostile Town"
+- Added Clip/NoClip
+- Added some detail to building across from train depot
+- Added more waypoints
+- Added generic weapon placement for "classic" mutator
+- Added more structures. (Buildings, fences etc.)
+- Changed textures on structures. (Trains, buildings, ground etc.)
+- Removed old generic floating buildings
+- Added map models
+- Removed triangles down from 181k to 151k And still more to go
+
+
+0.5 - Released to public.

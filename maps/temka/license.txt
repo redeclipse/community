@@ -1,0 +1,18 @@
+This work, made by [RM]Temka <temka32924@gmail.com>, is licensed under the 
+Creative Commons Attribution-ShareAlike 3.0
+ Unported License.
+
+To view a copy of this license:
+1. visit http://creativecommons.org/licenses/by-sa/3.0/ or
+2. read LEGALCODE.txt file or
+3. send a letter to Creative Commons,
+444 Castro Street, Suite 900,
+Mountain View, California, 94041, USA.
+
+**************************************
+Installation to Red Eclipse:
+
+put all files to the following folder:
+in Windows: Username\My Documents\My Games\Red Eclipse
+in Mac OS:/Users/<name>/Library/Application Support/redeclipse
+in Linux: ~/.redeclipse

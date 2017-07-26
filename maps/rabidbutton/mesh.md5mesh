@@ -1,0 +1,31 @@
+MD5Version 10
+commandline "Exported from Blender by io_export_md5.py by Paul Zirkle"
+
+numJoints 1
+numMeshes 1
+
+joints {
+	"Bone"	-1 ( 0.000000 0.000000 0.000000 ) ( -0.707107 -0.000000 -0.000000 )		// 
+}
+
+mesh {
+// meshes: mesh
+	shader "Material.001"
+
+	numverts 4
+	vert 0 ( 0.000089 0.935335 ) 0 1
+	vert 1 ( 2.999910 0.935335 ) 1 1
+	vert 2 ( 2.997957 0.088603 ) 2 1
+	vert 3 ( -0.001864 0.088603 ) 3 1
+
+	numtris 2
+	tri 0 0 2 1
+	tri 1 0 3 2
+
+	numweights 4
+	weight 0 0 1.000000 ( -0.720000 0.314227 0.000000 )
+	weight 1 0 1.000000 ( 0.720000 0.314227 0.000000 )
+	weight 2 0 1.000000 ( 0.720000 -0.005773 -0.000000 )
+	weight 3 0 1.000000 ( -0.720000 -0.005773 -0.000000 )
+}
+

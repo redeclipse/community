@@ -1,0 +1,11 @@
+This work, made by Kirill "TristamK" Kolesnikov <TristamK@bk.ru> and Bonifarz <bonifarz@gmx.ch>, is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
+To view a copy of this license visit 
+http://creativecommons.org/licenses/by-sa/3.0/ 
+
+The geometry of rooms 1, 6 and 9 corresponds to the map HardCore by [RM]Temka.
+
+Rooms 2, 4 and 5 and partly 12 were designed by TristamK as well as the portal shaders and the choice of the texture set. 
+
+Map remix, additional rooms, sky lighting and challenge texts by Bonifarz. 
+
+Octree font taken from Ac (http://www.quadropolis.us/node/2844)
