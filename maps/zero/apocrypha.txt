@@ -1,0 +1,65 @@
+
+"Apocrypha" Map By: Zero
+Version: 1.5
+
+License: CC BY-SA 3.0 Unported
+( http://creativecommons.org/licenses/by-sa/3.0/ )
+
+Email: gaven85@aim.com
+
+Info
+Teams: 2 (Alpha/Omega)
+Base Weapons: 2 Mines, 2 gernades, Flame Thrower, Shotgun, SMG, Rifle, plasma.
+Paths: 3 or more.
+Death Traps: Fall off castle grounds.
+Game Modes: All but Race
+
+Summary:
+Two teams battle it out in a arena style floating castle.
+A few teleports to reach a different floor or places
+you can't reach. Watch out don't fall. This will be updated
+daily. But a version is released once a week.
+
+Please keep
+me informed with fixes/ideas/questions/comments.
+
+Tips: 
+
+- Throwing grenades or mines into sphere teleports
+  can help defend central map.
+
+- To get away safely in a hurry use the floating pieces of land.
+
+Facts:
+
+- This map was created and inspired by the "Skyrim" soundtrack and the geometry
+and particles from "The College of Winterhold"
+
+- The map was intended to be two seperate castles but was later merged into one.
+ 
+Version History:
+V 1.5
+- Floating pieces of land are now playable.
+- Jumping pads are placed on floating land for bots.
+- Edited playerstarts to be mode specific.
+- Removed starting teleports.
+- Added more teleports.
+- Added more arch geometry to halls.
+- Put holes in outter sides of floors of the castle.
+- Clipped around holes.
+- Edited/Added tree's.
+- Moved weapon spawns around.
+- Added Death Material.
+- Edited Lighting.
+- Added waypoints.
+
+V 1.0
+- Edited Lighting - Snipergoth's idea.
+- Edited Arch's in center of castle.
+- Added benches to 2nd floor balconies.
+- Fixed textures around team bases.
+- No clipped weapon spawns.
+- Added pyramid base to castle.
+
+V 0.5
+- Made public.
