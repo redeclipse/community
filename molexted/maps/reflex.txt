@@ -1,0 +1,9 @@
+Reflex v2.1 by Molexted is licensed under the WTFPL v2 (wtfpl.net)
+
+This only applies to the files reflex.txt, reflex.mpz, reflex.wpt, reflex.png and reflex.cfg;
+assets used (such as textures, mapmodels, and the game) are the property of their respective owners.
+
+You may remix this work without permission.
+
+This work comes 'as-is' with NO warranty (implied or otherwise) or guarantee of sutiability for a particular purpose. 
+In no case will the author be held liable for damages caused by the use of this work.

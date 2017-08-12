@@ -1,0 +1,20 @@
+Polaris, by Molexted, is licensed under the WTFPL v2 (wtfpl.net)
+Polaris (Polaris.mpz Polaris.cfg Polaris.png Polaris.wpt) does not come with a warranty, implied or otherwise.
+This work comes "as-is" and does not come with any guarantee of suitablity for any particular use.
+In no case shall the author be held liable for damages caused due to usage of this work.
+
+Polaris is a small duel arena for Red Eclipse (redeclipse.net)
+This work may be modified, redistributed or remixed without permission from the author.
+
+---
+
+Set in rugged mountains far to the north, Polaris is the spiritual sucessor of the map Sand despite being of a completely different theme. The similarity is mainly 
+in the layout: small, close packed rooms with gameplay ahead of looks. Polaris, like Sand, is suitable for matches of four
+or less due to its diminutive size (44x48, small enough to fit inside a hypothetical size 9 map). Also, like Sand, Polaris lacks mines,
+as the layout is so cramped that mines would be excessively controling of the gameplay. 
+
+Rooms:Top floor: 38x21 (~800m^2), 1 grenade, 1 rifle, 1 flamer, 1 sword
+      Bottom floor: 38x14.5 (~540m^2), 1 grenade, 1 zapper
+      Side room: 22x 15 (~350m^2), 1 SMG
+      Outside: 25x25 (~625m^2), 1 grenade, 1 rifle, 1 plasma, 1 shotgun
+      Overall: 44x48m (~2100m^2), 1 of every weapon except 2 rifles, 3 grenades, no mines, no rockets.

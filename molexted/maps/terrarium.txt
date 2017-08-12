@@ -1,0 +1,11 @@
+Terrarium, by Molexted, is licensed under the WTFPL v2 (wtfpl.net)
+Terrarium (terrarium.mpz terrarium.cfg terrarium.png terrarrium.wpt terrarium.txt) does not come with a warranty, implied or otherwise.
+In no case shall the author, Molexted,  be held liable for damages caused due to use of this work.
+
+
+Terrarium is a small and laggy duel arena for Red Eclipse (redeclipse.net)
+It has three rooms and features a symmetrical layout populated with overgrown foliage. Climb through the trees to find a suitable sniping spot
+or a grenade fruit, and trek through the overgrown terrarium to find the rocket (and other weapons, in classic). 
+
+This work may be modified or remixed without permission from the author, as indicated under the terms of the WTFPL v2.
+
