@@ -1,0 +1,2 @@
+put this in REinstallFolder/data/textures/patterns
+Backup old camp.png if you need that
