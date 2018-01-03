@@ -1,0 +1,20 @@
+For RE style do:
+1. Normal RE style procedure
+2. Center the shadow level(horizontal and vertical)
+3. Make the highlight level invisible (so it would not export in the .png)
+4. Select the diffuse level and there grey gradient part.
+5. Go to "Colours"/ "Farben" -> "Brightness-Contrast"/ "Helligkeit/ Kontrast" -> "Edit these settings as levels"/ "Diese Einstellungen als Werte bearbeiten"
+6. Change Channels, Input Levels, Output Levels like the chart as below and use it
+
+			 (Input Levels)   (Output Levels)
+   Channel -  Black - White -  Black - White   
+	Red	   -  140   -  240  -  145   -  199
+	Green  -  140   -  240  -  146	 -  200
+	Blue   -  140   -  240  -  147   -  202
+	
+	
+Maybe theres a faster way (I hope so :D but idk), if you have some do a pull request at Github.
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Created by Iceflower.

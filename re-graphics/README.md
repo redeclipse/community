@@ -1,5 +1,3 @@
-All .svg files are made myself (Iceflower) with Inkscape. If not something different is written. (You can find the RE-style images of the Edit Icons too.)
-The file structure are the same as in the RE main directory. (Some not)
 
 **!IMPORTANT!**: Please READ the **WHOLE** ReadMe (*``name_ReadMe.txt``*) of some vector data before you edit or open them. Because if there exist there are useful tips and hints.
 
@@ -7,20 +5,20 @@ The file structure are the same as in the RE main directory. (Some not)
 
 Mostly the size of the vector files are 1000x1000px (but not every time! watch out!) because of calculating distances and so on, is easier for me.
 
-#####For editing and exporting you need
+##### For editing and exporting you need
 A Vector Programm like Inkscape (others are possible too) and GIMP and if you want them with RE style you need the re-icon fu-script from Unnamed (not everything needs RE style e.g. sky, notexture or others)
 
-#####To install the fu-script do this:
+##### To install the fu-script do this:
 1. Download the fu-script (link below)
 2. Copy it to the GIMP config directory
  - Windows 7: *``C:\Users\<Your name>\.gimp-x.x\scripts\``*
  - Linux: *``/home/<Your name>/.gimp-x.x/srcipts/``*
 
-#####To edit the vector data do this:
+#### #To edit the vector data do this:
 1. Install a vector programm you like to use
 2. Read tutorials or learning by doing :D
 
-#####To make a RE style icon do this:
+##### To make a RE style icon do this:
 1. Import the *``.svg``* with your wanted size in GIMP (just open it with GIMP)
 2. If its necessary use *``Colours -> Colour to Alpha``* and choose black (html notation: 000000) to get only a white image with a transparency background
 3. Use *``Filters -> Alpha to Logo``*
@@ -29,13 +27,13 @@ A Vector Programm like Inkscape (others are possible too) and GIMP and if you wa
     In the *name.svg* are only both parts in one data.
 5. Export as *``.png``*
 
-#####Links
+##### Links
 * Inkscape: https://inkscape.org/de/download/
 * GIMP: http://www.gimp.org/
 * re-icon fu script: https://github.com/red-eclipse/community/tree/master/Iceflower/graphics/gimpscript
 
 
-#####License
+##### License
 Red Eclipse General License if nothing different is given in the specific readme.
 
 

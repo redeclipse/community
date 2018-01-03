@@ -1,1 +1,0 @@
-Make a RE style logo, but deactivate highlight and diffuse level and activate the white level.

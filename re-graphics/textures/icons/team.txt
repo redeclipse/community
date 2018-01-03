@@ -1,0 +1,9 @@
+Why are `team.svg` and `ffa.svg` not the same?
+
+Because in team you are the same, in ffa you are not that is the "reason" why i have not choose the same for both.
+
+Based on `player.svg`.
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Created by Iceflower.

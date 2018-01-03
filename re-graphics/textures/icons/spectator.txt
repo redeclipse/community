@@ -1,0 +1,5 @@
+The eye is based on `templates/spetator.svg` and rotated by 45 degree.
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Created by Iceflower.

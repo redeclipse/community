@@ -1,1 +1,0 @@
-For the skulls i used the "RE-dead.svg".

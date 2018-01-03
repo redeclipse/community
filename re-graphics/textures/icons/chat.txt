@@ -1,0 +1,7 @@
+The `chat.svg` is the main data for the edit (text is text).
+Due to problems while importing to GIMP the text should be a vector lines and not text.
+`chat_export.svg` IS FOR RE STYLE ICONS!
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Created by Iceflower.

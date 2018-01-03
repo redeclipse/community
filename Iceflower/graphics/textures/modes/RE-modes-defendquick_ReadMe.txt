@@ -1,1 +1,0 @@
-The arrow circle is based on the circle of "RE-modes-race.svg".

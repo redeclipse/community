@@ -1,1 +1,0 @@
-Based on "RE-templates-point_sideview.svg" and "RE-templates-player_standing.svg"
