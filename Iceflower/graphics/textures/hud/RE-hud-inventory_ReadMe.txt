@@ -1,2 +1,0 @@
-For export as RE style the shadow need to moved left and down (with 256x256 do 13 left (13 keypresses to the left) and 4 down.
-"RE-hud-inventory.svg" has a special size of 1020x1020 instead of 1000x1000.

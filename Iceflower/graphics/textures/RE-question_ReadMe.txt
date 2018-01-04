@@ -1,1 +1,0 @@
-If you want to make a RE style with it, delete the levels diffuse and highlight after using the fu-script and enable the white image (over the shadow).

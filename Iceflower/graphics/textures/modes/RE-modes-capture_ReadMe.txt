@@ -1,1 +1,0 @@
-Flag is rotated with 26 degree.

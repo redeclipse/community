@@ -1,0 +1,5 @@
+Based on `templates/point_sideview.svg` and `templates/player_standing.svg`
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Created by Iceflower.

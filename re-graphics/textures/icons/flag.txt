@@ -1,0 +1,5 @@
+The flag is based on `templates/flag.svg` and rotated by 38° degree to the left and centered to the working area.
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Created by Iceflower.

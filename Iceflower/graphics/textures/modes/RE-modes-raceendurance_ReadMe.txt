@@ -1,1 +1,0 @@
-Use the impulse thunder part of "RE-hud-impulsebg+impulse.svg".

@@ -12,7 +12,9 @@ A Vector Programm like Inkscape (others are possible too) and GIMP and if you wa
 
 #####To install the fu-script do this:
 1. Download the fu-script (link below)
-2. Copy it to the GIMP config directory (Windows 7: *``C:\Users\<Your name>\.gimp-2.8\scripts``* | Linux: *``/home/<Your name>/.gimp-x.x/srcipts/``*)
+2. Copy it to the GIMP config directory
+ - Windows 7: *``C:\Users\<Your name>\.gimp-x.x\scripts\``*
+ - Linux: *``/home/<Your name>/.gimp-x.x/srcipts/``*
 
 #####To edit the vector data do this:
 1. Install a vector programm you like to use
@@ -34,7 +36,7 @@ A Vector Programm like Inkscape (others are possible too) and GIMP and if you wa
 
 
 #####License
-Red Eclipse General License
+Red Eclipse General License if nothing different is given in the specific readme.
 
 
 Iceflower

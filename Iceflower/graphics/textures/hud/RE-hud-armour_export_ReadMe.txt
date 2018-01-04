@@ -1,1 +1,0 @@
-Armour is the same as "RE-hud-impulse-export.svg".

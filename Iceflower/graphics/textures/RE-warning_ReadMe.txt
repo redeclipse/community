@@ -1,2 +1,0 @@
-The export version is very different from the edit version.
-Due to shadow issues, i have made the black shadow in the middle of the circle and the bar bigger, that the shadow is over the bar and made it at the end perfect. With the right size. Which is exact in the edit version.

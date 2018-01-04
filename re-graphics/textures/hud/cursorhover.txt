@@ -1,0 +1,3 @@
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Created by Iceflower based on the `cursor.svg` from Maxim "acerspyro" Therrien.
