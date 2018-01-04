@@ -1,9 +1,9 @@
+#### Notes
+Please read the included README files before modifying anything as they provide useful information about the nature and the usage of the files.
 
-**!IMPORTANT!**: Please READ the **WHOLE** ReadMe (*``name_ReadMe.txt``*) of some vector data before you edit or open them. Because if there exist there are useful tips and hints.
+the files with *``name_export.svg``* are **ONLY!** for export because of individual changes which makes editing after it much harder but easier to make an RE style of them (e.g. merged parts because of non intentional (visible) paths which will be import then "false").
 
-**!IMPORTANT!:** the files with *``name_export.svg``* are **ONLY!** for export because of individual changes which makes editing after it much harder but easier to make an RE style of them (e.g. merged parts because of non intentional (visible) paths which will be import then "false").
-
-Mostly the size of the vector files are 1000x1000px (but not every time! watch out!) because of calculating distances and so on, is easier for me.
+Most of the files in SVG format have a resolution matching a power of two, 1024 x 1024 is the minimum size for source material.
 
 ##### For editing and exporting you need
 A Vector Programm like Inkscape (others are possible too) and GIMP and if you want them with RE style you need the re-icon fu-script from Unnamed (not everything needs RE style e.g. sky, notexture or others)
@@ -11,10 +11,10 @@ A Vector Programm like Inkscape (others are possible too) and GIMP and if you wa
 ##### To install the fu-script do this:
 1. Download the fu-script (link below)
 2. Copy it to the GIMP config directory
- - Windows 7: *``C:\Users\<Your name>\.gimp-x.x\scripts\``*
+ - Windows: *``C:\Users\<Your name>\.gimp-x.x\scripts\``*
  - Linux: *``/home/<Your name>/.gimp-x.x/srcipts/``*
 
-#### #To edit the vector data do this:
+##### To edit the vector data do this:
 1. Install a vector programm you like to use
 2. Read tutorials or learning by doing :D
 
