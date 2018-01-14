@@ -7,6 +7,9 @@ All files provided "as-is" with no warranty, implied or expicit, to the extent p
 Maps are generally labeled as either FFA or CTF followed by a number;
 survior/duel maps will be noted as FFA and may not be expicitly mentioned.
 DTF/BB and Team DM maps all will be labeled with the CTF name and may not be explicitly mentioned.
+The x-series of layouts are not designed for current physics and are for experimental gameplay physics.
+
+All maps labeled "ffs" are tesseract-only; maps labeled "ffa" are generally cube2 compatible.
 
 These layouts are provided in the hopes that someone may take inspiration from them; 
 the layouts as-is were deemed unsuitable by me for use in an official map.
