@@ -1,12 +1,9 @@
+*.bak
 *~
 .directory
 .DS_Store
 *.orig
-*.core
-*.db
-*.diff
-*.ink
-*.patch
-*.out
-.gitattributes
+*.rej
+*.bak
+*.kate-swp
 
