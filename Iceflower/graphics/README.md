@@ -32,7 +32,7 @@ A Vector Programm like Inkscape (others are possible too) and GIMP and if you wa
 #####Links
 * Inkscape: https://inkscape.org/de/download/
 * GIMP: http://www.gimp.org/
-* re-icon fu script: https://github.com/red-eclipse/community/tree/master/Iceflower/graphics/gimpscript
+* re-icon fu script: https://github.com/redeclipse/community/tree/master/Iceflower/graphics/gimpscript
 
 
 #####License

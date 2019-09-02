@@ -8,7 +8,7 @@ Mostly the size of the vector files are 1000x1000px (but not every time...).
 You need a vector editor like Inkscape (others are possible too) and GIMP and if you want to export as the final RE styled icon (this is not needed for every graphics)you need the re-icon fu-script from Unnamed.
 
 ##### Install the fu-script
-1. Download the fu-script (https://github.com/red-eclipse/community/tree/master/Iceflower/graphics/gimpscript)
+1. Download the fu-script (https://github.com/redeclipse/community/tree/master/Iceflower/graphics/gimpscript)
 2. Copy it to the GIMP config directory
  - Windows: `C:\Users\<Your name>\.gimp-x.x\scripts\`
  - Linux: `/home/<Your name>/.gimp-x.x/scripts/*
@@ -29,4 +29,4 @@ You need a vector editor like Inkscape (others are possible too) and GIMP and if
 ##### Links
 * Inkscape: https://inkscape.org/de/download/
 * GIMP: http://www.gimp.org/
-* re-icon fu script: https://github.com/red-eclipse/community/tree/master/Iceflower/graphics/gimpscript
+* re-icon fu script: https://github.com/redeclipse/community/tree/master/Iceflower/graphics/gimpscript

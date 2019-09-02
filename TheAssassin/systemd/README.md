@@ -53,7 +53,7 @@ The easiest way to get Red Eclipse is installing it from Git.
     cd /srv/redeclipse
 
     # install Git and clone the repository
-    git clone -b stable --recursive https://github.com/red-eclipse/base.git
+    git clone -b stable --recursive https://github.com/redeclipse/base.git
 
     # build the game
     cd base

@@ -1,6 +1,6 @@
 [submodule "community.wiki"]
 	path = wiki/community
-	url = https://github.com/red-eclipse/community.wiki.git
+	url = https://github.com/redeclipse/community.wiki.git
 [submodule "base.wiki"]
 	path = wiki/base
-	url = https://github.com/red-eclipse/base.wiki.git
+	url = https://github.com/redeclipse/base.wiki.git
