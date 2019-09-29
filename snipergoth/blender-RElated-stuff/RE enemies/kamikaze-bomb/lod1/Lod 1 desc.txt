@@ -1,0 +1,1 @@
+A very basic LOD, it just turns off the shadows. Already helps a bit if they are far and shadows aren't really needed.
