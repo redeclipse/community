@@ -13,6 +13,11 @@ Changes are based on master branch reversion (r164) which was ported by Molexted
 * Improved use of laser traps (removed those wonky red cubes)
 * Lighter ambient colour (mild green tint to vary colour contrast)
 * Route entities deleted
+* Added some small geometry details
+
+#### r266
+
+* Fixed spawn area (widened to accommodate more players)
 
 ### TODO
 
