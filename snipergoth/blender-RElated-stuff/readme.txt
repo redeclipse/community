@@ -1,0 +1,3 @@
+This is the "first person player hands" all set up, for those wanting to play around with them, or make their own animations.
+As for exporting them, just export using the Blender 2.79 iqm exporter, selecting the rig bone and checking "de-rigify" in the exporter options when you are done, otherwise it won't work.
+The "shotgun" and "spell" animations are things made for other things, but i decided to leave them there.
