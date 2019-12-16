@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="11.52000045776367"
+   inkscape:export-xdpi="11.52000045776367"
+   inkscape:export-filename="/home/samuel/Daten/Bearbeitung/RE-mode-gladiator_d (Kopie).svg.png"
+   sodipodi:docname="flamer.svg"
+   inkscape:version="1.0beta1 (41b5402, 2019-11-21)"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 1000.000007751872 1000.000020984042"
+   height="1000"
+   width="1000">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     inkscape:snap-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1361"
+     inkscape:window-width="2560"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="g822"
+     inkscape:document-units="px"
+     inkscape:cy="621.29138"
+     inkscape:cx="258.95818"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#000000"
+     id="base" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Iceflower S</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Iceflower S</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>Red Eclipse</dc:source>
+        <dc:description>Only for the game Red Eclipse.
+www.redeclipse.net</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-52.36216050996518)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <g
+       transform="matrix(0.79960019990005,-0.79960019990005,0.79960019990005,0.79960019990005,-279.6998784687378,511.4928667488737)"
+       id="g4274">
+      <g
+         id="g822">
+        <path
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path39"
+           d="m 557.38034,979.65188 3e-5,-35.88347 -6.48339,-87.464 9.29983,2e-5 5.02744,-7.17994 -10e-6,-114.91964 -3.67137,-8.65793 16.37702,-29.20748 7.42758,-51.96843 -8.78365,-47.64989 -15.3339,-44.01983 10.84848,4.90266 -8.03207,-65.71678 C 561.34194,430.4006 556.10656,369.40545 544.32062,311.21762 l -16.7736,-64.25594 -18.44245,-5.1113 v -41.412 l 4.67324,-2e-5 -1e-5,-95.47419 h -47.90026 l -1e-5,95.47421 4.67319,-2e-5 v 58.24163 l -24.15709,10.17889 -10e-6,-255.765571 17.08798,-36.645302 3.14784,-1.467845 6.3666,-13.653249 -14.41103,-6.719956 -6.29358,13.496626 1.4796,4.065226 -18.12508,38.869434 -1e-5,286.144457 c -7.38397,4.02556 -12.40563,10.52588 -16.89674,17.58203 l -10e-6,179.73025 15.54257,-6.25877 -3.65095,11.16145 1e-5,9.70105 -1.35608,2.08624 2e-5,49.757 20.03889,18.72346 -28.12097,77.26171 20.98752,24.60631 -7.89319,-10e-6 -10e-6,48.76796 16.92793,8.26112 -28.87441,4.37213 -13.92822,45.61696 5.00699,16.27273 -95.44586,46.21038 -14.18647,-1e-5 17.00291,77.71276 7.92774,13.87353 35.36191,-2.3992 48.29662,-49.33977 11.47439,-2.60779 18.98483,4.69406 14.08218,27.12122 29.72902,13.14336 40.78616,-19.81934 -10e-6,37.55245 17.31587,33.90154 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.884325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           id="path868"
+           d="m 561.03126,706.35343 8.97088,-16.16843 4.27679,-44.43707 -6.98892,-43.70688 -15.02098,-49.86133 v 61.02274 l 8.76223,3.75526 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.884325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path870"
+           d="m 423.35986,804.40709 h 18.25467 l 8.13638,-7.40619 -10e-6,-50.59151 -20.96678,2.29487 -13.97787,38.17834 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.884325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           d="m 421.20294,656.92641 -10.02675,7.54005 -16.35613,-5.95313 -41.95168,-20.60653 1.994,-5.47849 -32.85164,-11.957 -5.90466,3.40676 -18.67189,-6.79601 28.70276,-78.8602 18.67188,6.79601 2.33343,6.40519 32.85162,11.95702 1.99401,-5.47849 45.38247,11.18051 16.35612,5.95314 2.83431,12.22111 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.884325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path872" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path914"
+           d="m 394.82006,658.51333 32.5503,-89.43123 16.35612,5.95314 -32.55029,89.43122 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.884325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccccccccccc"
+           inkscape:connector-curvature="0"
+           d="m 508.27942,600.10131 -7.43649,10.61966 v 16.48168 l -23.69944,25.19071 3.1e-4,-41.67239 -7.43649,-10.61966 v -77.73292 l 7.43649,-10.61737 -3.1e-4,-48.68219 23.69944,32.20049 v 16.4817 l 7.43649,10.61737 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.884325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path918" />
+      </g>
+    </g>
+  </g>
+</svg>
