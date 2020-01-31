@@ -1,6 +1,6 @@
 ### Animated ripples decal
 
-See the example map in example/ to see the effect
+Load the example map to see the effect
 
 Animation frames were sourced from:
 https://opengameart.org/content/seamless-animated-raindrop-ripples-texture
