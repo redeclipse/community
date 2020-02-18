@@ -14,8 +14,8 @@
    viewBox="0 0 999.9999880656118 999.9999880410413"
    id="svg4166"
    version="1.1"
-   inkscape:version="0.92.0 r"
-   sodipodi:docname="RE-priv_bot.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="bot.svg"
    inkscape:export-filename="D:\Samuel Daten\Ico\Eigene Ico\Inkscape\RE\RE-priv_bot.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -41,14 +41,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899494928776645"
-     inkscape:cx="588.8854375838262"
-     inkscape:cy="667.536345993193"
+     inkscape:zoom="1.4"
+     inkscape:cx="503.9551"
+     inkscape:cy="573.08898"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     showguides="false" />
+     showguides="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata4171">
     <rdf:RDF>
@@ -57,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,43 +109,40 @@
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:421.3494567871px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="43.102524"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:421.34945679px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30.758572"
        y="755.82507"
        id="text4949"
-       sodipodi:linespacing="125%"
-       transform="scale(1.089704130355357,0.9176802878354658)"><tspan
+       transform="scale(1.0897041,0.9176803)"><tspan
          sodipodi:role="line"
          id="tspan4951"
-         x="43.102524"
+         x="30.758572"
          y="755.82507"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:421.3494567871px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">B</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:421.34945679px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:426.6125183105px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="628.52148"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:426.61251831px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="621.1994"
        y="765.26605"
        id="text4949-9"
-       sodipodi:linespacing="125%"
-       transform="scale(1.103315595172005,0.906358982303791)"><tspan
+       transform="scale(1.1033156,0.90635898)"><tspan
          sodipodi:role="line"
          id="tspan4951-2"
-         x="628.52148"
+         x="621.1994"
          y="765.26605"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:426.6125183105px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">T</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:426.61251831px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">T</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:505.1103515625px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="373.95267"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:505.11035156px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="367.29349"
        y="664.45697"
        id="text4949-9-6"
-       sodipodi:linespacing="125%"
-       transform="scale(0.9579751326638762,1.04386843238745)"><tspan
+       transform="scale(0.95797515,1.0438684)"><tspan
          sodipodi:role="line"
          id="tspan4951-2-9"
-         x="373.95267"
+         x="367.29349"
          y="664.45697"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:505.1103515625px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">o</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:505.11035156px;line-height:125%;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">o</tspan></text>
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48.3079986572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5176"
