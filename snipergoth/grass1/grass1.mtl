@@ -1,0 +1,12 @@
+newmtl no texture
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd no texture.png
+
+newmtl foliage001_4k_color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd foliage001_4k_color.png
+
