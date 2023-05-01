@@ -1,0 +1,57 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl CorrigateRust04.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 8.999999 8.999999 8.999999
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Particular\Downloads\African_Savanna_Source v1.0_Ready\game\art\shapes\3TD_Props\Shack02\3TD_Corrigate_Rust_04.jpg
+
+newmtl WoodPlank02a.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 8.999999 8.999999 8.999999
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Particular\Downloads\African_Savanna_Source v1.0_Ready\game\art\shapes\3TD_Props\Shack01\3td_WoodPlank_02.jpg
+
+newmtl WoodPlank02a.004_3td_WoodPlank_02.jpg.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 8.999999 8.999999 8.999999
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Particular\Downloads\African_Savanna_Source v1.0_Ready\game\art\shapes\3TD_Props\PoleBuilding01\3td_WoodPlank_02.jpg
+
+newmtl WoodPlank_T.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 9.000000 9.000000 9.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Particular\Downloads\African_Savanna_Source v1.0_Ready\game\art\shapes\3TD_Props\Shack02\3TD_WoodPlank_T_01.png
+
+newmtl rust7
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 8.999999 8.999999 8.999999
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Particular\Downloads\African_Savanna_Source v1.0_Ready\game\art\shapes\3TD_Props\Shack02\3td_Corrigate_07.jpg

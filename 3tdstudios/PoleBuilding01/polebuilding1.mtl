@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl CorrigateRust03.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 8.999999 8.999999 8.999999
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Particular\Downloads\African_Savanna_Source v1.0_Ready\game\art\shapes\3TD_Props\PoleBuilding01\3TD_Corrigate_Rust_03.jpg
+
+newmtl WoodPlank02a.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 8.999999 8.999999 8.999999
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Particular\Downloads\African_Savanna_Source v1.0_Ready\game\art\shapes\3TD_Props\PoleBuilding01\3td_WoodPlank_02.jpg

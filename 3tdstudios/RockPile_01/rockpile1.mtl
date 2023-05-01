@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl RockPile01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 10000.000000 10000.000000 10000.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Particular\Downloads\CAVE_PACK_PRO v.1.0_Ready\SOURCE_FILES\game\art\shapes\Cave_Rocks\RockPile_01\RockPile_01_Diff.jpg
