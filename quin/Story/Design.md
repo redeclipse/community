@@ -30,7 +30,7 @@ To propel the stories forward, an "on rail" character will be provided to act as
 
 The use of the Guide will also allow a mechanism for limiting the progression through the level without all members of the party. The on rail system for the Guide will lock out further areas until they are present to open them. This also allows for forks in the path depending on the nature of the game type.
 
-It is not necessary for the Guide to be any specific character, but is instead intended to function as a focal point for progression, keeping a party together. It is a broad term that could be anything from an invsible person on the radio, to a silent ball of light that simply shows the way. The system should facilitate creativity in design with a structured application.
+It is not necessary for the Guide to be any specific character, but is instead intended to function as a focal point for progression, keeping a party together. It is a broad term that could be anything from an invisible person on the radio, to a silent ball of light that simply shows the way. The system should facilitate creativity in design with a structured application.
 
 # Singleplayer
 
