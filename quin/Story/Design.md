@@ -22,15 +22,21 @@ The gameplay itself needs to be fairly linear with a clear objective that partie
 
 Players will start with either their full loadout or no weapons at the beginning of each chapter, depending on the setting the creator sets in their map. The director will create the necessary ammo for the party along the path at creator defined points. The "stop and resupply" points are good places to advance the story while also keeping the players occupied with a task. It should never feel like the party is being held back by anything other than a straggling party member to promote cooperative play and social interaction.
 
-The action should be contained in sequences of different game types. The game types should be "friendly competition" Player-vs-Environment focused where the concept is that the party is cooperating to complete a task, but are individually competing against each other for points. The most basic description of this being the locked room with waves of enemies (or a boss) to destroy before progress is unlocked.
+# Raids
+
+The action should be contained in sequences of different game types called Raids. The game types should be "friendly competition" Player-vs-Environment focused where the concept is that the party is cooperating to complete a task, but are individually competing against each other for points. The most basic description of this being the locked room with waves of enemies (or a boss) to destroy before progress is unlocked.
+
+*NOTE: Raids can be adapted to work as a Deathmatch mutator as well.*
 
 # Guides
 
-To propel the stories forward, an "on rail" character will be provided to act as a guide. The first of these being a rogue janitor that assists the player through the prologue, but more can be added as the greater universe is expanded upon. It is the job of the Guide to show the party through the level and create story beats along the way, if someone is having difficulty it should be able to assist them.
+To propel the stories forward, an "on rail" character will be provided to act as a guide. The first of these being a rogue Janitor that assists the player through the prologue, but more can be added as the greater universe is expanded upon. It is the job of the Guide to show the party through the level and create story beats along the way, if someone is having difficulty it should be able to assist them.
 
 The use of the Guide will also allow a mechanism for limiting the progression through the level without all members of the party. The on rail system for the Guide will lock out further areas until they are present to open them. This also allows for forks in the path depending on the nature of the game type.
 
 It is not necessary for the Guide to be any specific character, but is instead intended to function as a focal point for progression, keeping a party together. It is a broad term that could be anything from an invisible person on the radio, to a silent ball of light that simply shows the way. The system should facilitate creativity in design with a structured application.
+
+*Guides will need to be able to display key combinations over their head when assisting players, as a route-based UI element may not always be appropriate to display the way to progress, and would likely get tedious if necessary to add at every single point on the route.*
 
 # Singleplayer
 
@@ -39,3 +45,9 @@ The variable number of players required to play through a chapter means that one
 # Prologue
 
 The prologue will be a special map that consists of a tutorial embedded in with the opening story beats of the entire game. It will use the forks feature to take the player through a modified version of the chapter (tutorial) the first time it is played in order to teach the mechanics, keys, etc needed for all other chapters. See: [Prologue](Prologue.md).
+
+# Choices
+
+Player choices when interacting with the story should be conveyed through the use of triggerss or graphical map UI elements. The ability to interact with them should be locked until the Guide has caught up to the interaction point. It should only be necessary for one player in a party to interact in order to proceed.
+
+*NOTE: This requires a rewrite of the trigger/event handling system and modification of entity spawning rules to be more general.*
